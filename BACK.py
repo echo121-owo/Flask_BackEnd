@@ -8,7 +8,7 @@ CORS(app) #允许cross port
 
 
 def home():
-    return jsonify({"message":"hahahah"})
+    return jsonify({"message":"....ˊˋ------｡:.ﾟ_ヽ(_´∀`_)ﾉ_.:｡((浮水"})
 
 
 if __name__ == "__main__":
